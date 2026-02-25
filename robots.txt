@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mojtaba1996cs.github.io/quran/sitemap.xml
