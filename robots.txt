@@ -1,4 +1,4 @@
-User-agent: *
+https-agent: *
 Allow: /
 
-Sitemap: https://mojtaba1996cs.github.io/quran/sitemap.xml
+Sitemap:https://mojtaba1996cs.github.io/quran/sitemap.xml
